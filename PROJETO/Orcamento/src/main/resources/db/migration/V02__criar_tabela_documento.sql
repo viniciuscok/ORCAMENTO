@@ -1,0 +1,5 @@
+CREATE TABLE documento (
+    codigo BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(100) NOT NULL,
+    obs text(200)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

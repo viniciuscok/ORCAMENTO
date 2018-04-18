@@ -1,0 +1,6 @@
+CREATE TABLE servico (
+    codigo BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+    nome VARCHAR(80) NOT NULL,
+    valor DECIMAL(10,2) NOT NULL,
+    obs text(200)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

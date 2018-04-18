@@ -1,0 +1,7 @@
+1521332697405	Move compilation unit
+1521339571120	Rename package 'br.com.pioneiro.orcamento.thymeleaf.processadores'
+1521341677750	Delete element
+1521341692124	Delete element
+1521345277237	Rename resource 'brewer.css'
+1521519752383	Extract method 'adicionarFiltro'
+1521588176198	Extract method 'adicionarFiltro'
